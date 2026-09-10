@@ -1,7 +1,7 @@
 <!-- Desenvolvido por: DriveWeb | Rodrigo Soares | (c) DriveWeb — https://driveweb.pt · contacto@driveweb.pt · WhatsApp +351 913 671 493 -->
 
 <p align="center">
-  <img src="assets/banner.svg" alt="DriveWeb — Agência Digital · Sites que vendem" width="100%" />
+  <img src="assets/banner.png" alt="DriveWeb — Agência Digital · Sites que vendem" width="100%" />
 </p>
 
 <p align="center">
