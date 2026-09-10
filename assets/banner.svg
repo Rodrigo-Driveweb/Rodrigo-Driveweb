@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="DriveWeb - Agencia Digital">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#04122E"/>
+      <stop offset="0.5" stop-color="#0A66C2"/>
+      <stop offset="1" stop-color="#0FA968"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.72" cy="0.28" r="0.55">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#19D97F"/>
+      <stop offset="1" stop-color="#8CF3C2"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="400" rx="0" fill="url(#bg)"/>
+  <rect width="1280" height="400" fill="url(#glow)"/>
+
+  <!-- dots -->
+  <g fill="#ffffff" fill-opacity="0.12">
+    <circle cx="120" cy="60" r="3.5"/><circle cx="190" cy="110" r="2.5"/><circle cx="80" cy="150" r="2.5"/>
+    <circle cx="60" cy="300" r="3"/><circle cx="150" cy="340" r="2.5"/>
+  </g>
+  <!-- ondas subtis (fill none!) -->
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1.5">
+    <path d="M0 350 Q 320 300 640 350 T 1280 350"/>
+    <path d="M0 372 Q 320 322 640 372 T 1280 372"/>
+  </g>
+
+  <!-- ===== LADO ESQUERDO ===== -->
+  <image x="70" y="120" width="120" height="152" xlink:href="data:image/png;base64,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"/>
+  <text x="215" y="180" font-family="Poppins, Segoe UI, Helvetica, Arial, sans-serif" font-size="76" font-weight="800" fill="#ffffff" letter-spacing="1">DriveWeb</text>
+  <text x="219" y="228" font-family="Poppins, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#EAF3FF">Agencia Digital &#183; Sites que vendem</text>
+  <rect x="221" y="248" width="330" height="5" rx="2.5" fill="url(#accent)"/>
+
+  <!-- chips de servico -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#EFFffff">
+    <g><rect x="221" y="278" width="104" height="34" rx="17" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.25"/><text x="273" y="300" text-anchor="middle" fill="#ffffff">Sites</text></g>
+    <g><rect x="333" y="278" width="150" height="34" rx="17" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.25"/><text x="408" y="300" text-anchor="middle" fill="#ffffff">Lojas online</text></g>
+    <g><rect x="491" y="278" width="86" height="34" rx="17" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.25"/><text x="534" y="300" text-anchor="middle" fill="#ffffff">SEO</text></g>
+    <g><rect x="585" y="278" width="150" height="34" rx="17" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.25"/><text x="660" y="300" text-anchor="middle" fill="#ffffff">Google Ads</text></g>
+  </g>
+  <text x="223" y="344" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff" fill-opacity="0.9">PT &#160;&#183;&#160; BR &#160;&#183;&#160; US &#160;&#183;&#160; ES &#160;&#183;&#160; UA</text>
+
+  <!-- ===== MOCKUP BROWSER (direita) ===== -->
+  <g transform="translate(858,86)">
+    <rect x="0" y="0" width="360" height="228" rx="16" fill="#0B1E3B" stroke="#ffffff" stroke-opacity="0.30"/>
+    <rect x="0" y="0" width="360" height="40" rx="16" fill="#12294B"/>
+    <rect x="0" y="24" width="360" height="16" fill="#12294B"/>
+    <circle cx="24" cy="20" r="6" fill="#FF5F57"/><circle cx="46" cy="20" r="6" fill="#FEBC2E"/><circle cx="68" cy="20" r="6" fill="#28C840"/>
+    <rect x="92" y="10" width="240" height="20" rx="10" fill="#0B1E3B"/>
+    <text x="104" y="25" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9Fc3ff">https://driveweb.pt</text>
+    <!-- conteudo -->
+    <rect x="24" y="62" width="150" height="16" rx="6" fill="#ffffff" fill-opacity="0.9"/>
+    <rect x="24" y="88" width="312" height="10" rx="5" fill="#ffffff" fill-opacity="0.35"/>
+    <rect x="24" y="106" width="280" height="10" rx="5" fill="#ffffff" fill-opacity="0.35"/>
+    <rect x="24" y="124" width="300" height="10" rx="5" fill="#ffffff" fill-opacity="0.25"/>
+    <rect x="24" y="156" width="150" height="42" rx="21" fill="url(#accent)"/>
+    <text x="99" y="183" text-anchor="middle" font-family="Poppins, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#04122E">Pedir orcamento</text>
+    <rect x="196" y="156" width="140" height="42" rx="10" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.3"/>
+    <rect x="212" y="170" width="108" height="14" rx="7" fill="#ffffff" fill-opacity="0.5"/>
+  </g>
+</svg>

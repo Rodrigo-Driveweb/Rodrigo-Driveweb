@@ -1,21 +1,14 @@
 <!-- Desenvolvido por: DriveWeb | Rodrigo Soares | (c) DriveWeb — https://driveweb.pt · contacto@driveweb.pt · WhatsApp +351 913 671 493 -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-branco.png">
-    <img src="assets/logo-preto.png" alt="DriveWeb" height="120">
-  </picture>
+  <img src="assets/banner.svg" alt="DriveWeb — Agência Digital · Sites que vendem" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2800&pause=800&color=0A66C2&center=true&vCenter=true&width=680&lines=Criamos+sites+que+VENDEM;Lojas+online+%2B+pagamentos+PT;SEO+t%C3%A9cnico+%26+Google+Ads;Automa%C3%A7%C3%B5es+WhatsApp+%2B+CRM" alt="DriveWeb" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=800&color=0A66C2&center=true&vCenter=true&width=680&lines=Criamos+sites+que+VENDEM;Lojas+online+%2B+pagamentos+PT;SEO+t%C3%A9cnico+%26+Google+Ads;Automa%C3%A7%C3%B5es+WhatsApp+%2B+CRM" alt="DriveWeb" />
 </p>
 
-<h3 align="center">Rodrigo Soares · Fundador da DriveWeb — Agência Digital</h3>
-
-<p align="center">
-  🇵🇹 Portugal &nbsp;·&nbsp; 🇧🇷 Brasil &nbsp;·&nbsp; 🇺🇸 Estados Unidos &nbsp;·&nbsp; 🇪🇸 Espanha &nbsp;·&nbsp; 🇺🇦 Ucrânia
-</p>
+<h3 align="center">Rodrigo Soares · Fundador da DriveWeb</h3>
 
 <p align="center">
   <a href="https://driveweb.pt" target="_blank"><img src="https://img.shields.io/badge/Website-driveweb.pt-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
