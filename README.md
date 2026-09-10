@@ -19,8 +19,12 @@
 ## 🚀 Sobre a DriveWeb
 
 <p align="center">
-  A <strong>DriveWeb</strong> é uma agência digital com base em <strong>Leiria &amp; Porto (Portugal)</strong> e presença no <strong>Brasil</strong>.<br>
+  A <strong>DriveWeb</strong> é uma agência digital com base em <strong>Portugal</strong> e presença internacional.<br>
   Ajudamos pequenas e médias empresas a <strong>aparecer, converter e vender online</strong>.
+</p>
+
+<p align="center">
+  🇵🇹 Portugal &nbsp;·&nbsp; 🇧🇷 Brasil &nbsp;·&nbsp; 🇺🇸 Estados Unidos &nbsp;·&nbsp; 🇪🇸 Espanha &nbsp;·&nbsp; 🇺🇦 Ucrânia
 </p>
 
 | Serviço | O que fazemos |
@@ -64,7 +68,7 @@
 ## 📬 Contactos
 
 <p align="center">
-  📍 <strong>Leiria &amp; Porto — Portugal</strong> &nbsp;|&nbsp; 🌎 <strong>Araucária — Brasil</strong><br><br>
+  🇵🇹 <strong>Portugal</strong> &nbsp;·&nbsp; 🇧🇷 <strong>Brasil</strong> &nbsp;·&nbsp; 🇺🇸 <strong>Estados Unidos</strong> &nbsp;·&nbsp; 🇪🇸 <strong>Espanha</strong> &nbsp;·&nbsp; 🇺🇦 <strong>Ucrânia</strong><br><br>
   📞 <a href="tel:351913671493">+351 913 671 493</a> &nbsp;|&nbsp;
   📧 <a href="mailto:contacto@driveweb.pt">contacto@driveweb.pt</a> &nbsp;|&nbsp;
   🌍 <a href="https://driveweb.pt">driveweb.pt</a>
