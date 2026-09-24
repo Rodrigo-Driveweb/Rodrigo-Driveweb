@@ -37,6 +37,14 @@
 
 ---
 
+## 🧩 Produtos DriveWeb
+
+| Produto | O que faz | Detalhes |
+|---|---|---|
+| **Módulo IFthenpay Gateway para Perfex CRM** | Pagamentos Multibanco, MB WAY, Payshop e PIX dentro do Perfex CRM, com fatura marcada como paga automaticamente | [Ver apresentação](https://github.com/Rodrigo-Driveweb/ifthenpay-perfex-module) |
+
+---
+
 ## 💼 Trabalho selecionado
 
 | Projeto | Área | Link |
