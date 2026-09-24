@@ -42,7 +42,7 @@
 | Projeto | Área | Link |
 |---|---|---|
 | **EW Motos** | Loja de peças e acessórios de moto (catálogo grande, multi-fornecedor) | [ewmotos.pt](https://ewmotos.pt) |
-| **Tear da Moda** | Loja de moda online com checkout PT | [teardamoda.pt](https://teardamoda.pt) |
+| **DOCA Enduroline** | Loja de peças e acessórios de enduro (KTM, Husqvarna, GasGas) fabricados em Portugal | [doca.com.pt](https://doca.com.pt) |
 | **EMC Solar** | Site institucional (energia solar) | [emcsolarpanels.com](https://emcsolarpanels.com) |
 | **DriveWeb** | A nossa agência — portefólio completo | [driveweb.pt](https://driveweb.pt) |
 
