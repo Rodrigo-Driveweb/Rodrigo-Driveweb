@@ -43,6 +43,7 @@
 |---|---|---|
 | **EW Motos** | Loja de peças e acessórios de moto (catálogo grande, multi-fornecedor) | [ewmotos.pt](https://ewmotos.pt) |
 | **DOCA Enduroline** | Loja de peças e acessórios de enduro (KTM, Husqvarna, GasGas) fabricados em Portugal | [doca.com.pt](https://doca.com.pt) |
+| **Kangaroo Jane** | Loja de roupa desportiva feminina (activewear) com seletor de idiomas PT/EN/ES | [kangaroojane.com](https://kangaroojane.com) |
 | **EMC Solar** | Site institucional (energia solar) | [emcsolarpanels.com](https://emcsolarpanels.com) |
 | **DriveWeb** | A nossa agência — portefólio completo | [driveweb.pt](https://driveweb.pt) |
 
